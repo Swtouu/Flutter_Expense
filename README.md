@@ -1,6 +1,7 @@
-# some_project
+# Expense_App
 
-A new Flutter project.
+A first flutter project from "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
+Course by Maximilian Schwarzmüller
 
 ## Getting Started
 
